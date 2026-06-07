@@ -1,0 +1,551 @@
+[
+  {
+    "id": "assets-backgrounds-blindbox-blindbox-space",
+    "oldPath": "/assets/backgrounds/blindbox/blindbox-space.png",
+    "path": "./assets/images/assets-backgrounds-blindbox-blindbox-space.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 1508.2,
+    "newSizeKB": 94.6,
+    "savedPercent": 93.7
+  },
+  {
+    "id": "assets-backgrounds-cocreation-cocreation-wall",
+    "oldPath": "/assets/backgrounds/cocreation/cocreation-wall.png",
+    "path": "./assets/images/assets-backgrounds-cocreation-cocreation-wall.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 1258.1,
+    "newSizeKB": 65.1,
+    "savedPercent": 94.8
+  },
+  {
+    "id": "assets-backgrounds-commute-commute-street",
+    "oldPath": "/assets/backgrounds/commute/commute-street.png",
+    "path": "./assets/images/assets-backgrounds-commute-commute-street.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 1297.8,
+    "newSizeKB": 67.9,
+    "savedPercent": 94.8
+  },
+  {
+    "id": "assets-backgrounds-gift-gift-desk",
+    "oldPath": "/assets/backgrounds/gift/gift-desk.png",
+    "path": "./assets/images/assets-backgrounds-gift-gift-desk.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 1263.2,
+    "newSizeKB": 70.9,
+    "savedPercent": 94.4
+  },
+  {
+    "id": "assets-backgrounds-graduation-graduation-photo-zone",
+    "oldPath": "/assets/backgrounds/graduation/graduation-photo-zone.png",
+    "path": "./assets/images/assets-backgrounds-graduation-graduation-photo-zone.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 1273.5,
+    "newSizeKB": 68.4,
+    "savedPercent": 94.6
+  },
+  {
+    "id": "assets-backgrounds-music-music-festival",
+    "oldPath": "/assets/backgrounds/music/music-festival.png",
+    "path": "./assets/images/assets-backgrounds-music-music-festival.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 1544.4,
+    "newSizeKB": 89.1,
+    "savedPercent": 94.2
+  },
+  {
+    "id": "assets-backgrounds-school-school-room",
+    "oldPath": "/assets/backgrounds/school/school-room.png",
+    "path": "./assets/images/assets-backgrounds-school-school-room.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 1430.9,
+    "newSizeKB": 83.6,
+    "savedPercent": 94.2
+  },
+  {
+    "id": "assets-backgrounds-seaside-seaside-holiday",
+    "oldPath": "/assets/backgrounds/seaside/seaside-holiday.png",
+    "path": "./assets/images/assets-backgrounds-seaside-seaside-holiday.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 2119.9,
+    "newSizeKB": 180.4,
+    "savedPercent": 91.5
+  },
+  {
+    "id": "assets-campaign-generated-graduation-keyvisual",
+    "oldPath": "/assets/campaign/generated/graduation-keyvisual.png",
+    "path": "./assets/images/assets-campaign-generated-graduation-keyvisual.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 1233.8,
+    "newSizeKB": 140.4,
+    "savedPercent": 88.6
+  },
+  {
+    "id": "assets-campaign-generated-school-keyvisual",
+    "oldPath": "/assets/campaign/generated/school-keyvisual.png",
+    "path": "./assets/images/assets-campaign-generated-school-keyvisual.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 1258.1,
+    "newSizeKB": 147.9,
+    "savedPercent": 88.2
+  },
+  {
+    "id": "assets-campaign-generated-summer-bingo-pop-up-board",
+    "oldPath": "/assets/campaign/generated/summer-bingo-pop-up-board.png",
+    "path": "./assets/images/assets-campaign-generated-summer-bingo-pop-up-board.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 703.2,
+    "newSizeKB": 126.2,
+    "savedPercent": 82.1
+  },
+  {
+    "id": "assets-campaign-generated-summer-keyvisual",
+    "oldPath": "/assets/campaign/generated/summer-keyvisual.png",
+    "path": "./assets/images/assets-campaign-generated-summer-keyvisual.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 1268.5,
+    "newSizeKB": 143.5,
+    "savedPercent": 88.7
+  },
+  {
+    "id": "assets-campaign-generated-summer-match-certificate",
+    "oldPath": "/assets/campaign/generated/summer-match-certificate.png",
+    "path": "./assets/images/assets-campaign-generated-summer-match-certificate.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 1154.6,
+    "newSizeKB": 136.4,
+    "savedPercent": 88.2
+  },
+  {
+    "id": "assets-campaign-web-campus-students",
+    "oldPath": "/assets/campaign/web/campus-students.jpg",
+    "path": "./assets/images/assets-campaign-web-campus-students.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 250.1,
+    "newSizeKB": 219.6,
+    "savedPercent": 12.2
+  },
+  {
+    "id": "assets-campaign-web-graduation-campus",
+    "oldPath": "/assets/campaign/web/graduation-campus.jpg",
+    "path": "./assets/images/assets-campaign-web-graduation-campus.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 192.6,
+    "newSizeKB": 111.2,
+    "savedPercent": 42.3
+  },
+  {
+    "id": "assets-campaign-web-music-festival",
+    "oldPath": "/assets/campaign/web/music-festival.jpg",
+    "path": "./assets/images/assets-campaign-web-music-festival.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 224.2,
+    "newSizeKB": 199.3,
+    "savedPercent": 11.1
+  },
+  {
+    "id": "assets-campaign-web-retail-store",
+    "oldPath": "/assets/campaign/web/retail-store.jpg",
+    "path": "./assets/images/assets-campaign-web-retail-store.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 153.5,
+    "newSizeKB": 90.5,
+    "savedPercent": 41.1
+  },
+  {
+    "id": "assets-campaign-web-shopping-mall",
+    "oldPath": "/assets/campaign/web/shopping-mall.jpg",
+    "path": "./assets/images/assets-campaign-web-shopping-mall.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 117.8,
+    "newSizeKB": 54.4,
+    "savedPercent": 53.8
+  },
+  {
+    "id": "assets-characters-base-xiaofulong-base",
+    "oldPath": "/assets/characters/base/xiaofulong-base.png",
+    "path": "./assets/images/assets-characters-base-xiaofulong-base.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 1027.3,
+    "newSizeKB": 67.7,
+    "savedPercent": 93.4
+  },
+  {
+    "id": "assets-characters-expressions-xiaofulong-gift-hands",
+    "oldPath": "/assets/characters/expressions/xiaofulong-gift-hands.png",
+    "path": "./assets/images/assets-characters-expressions-xiaofulong-gift-hands.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 1062.8,
+    "newSizeKB": 68.4,
+    "savedPercent": 93.6
+  },
+  {
+    "id": "assets-characters-expressions-xiaofulong-graduate-mini",
+    "oldPath": "/assets/characters/expressions/xiaofulong-graduate-mini.png",
+    "path": "./assets/images/assets-characters-expressions-xiaofulong-graduate-mini.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 1020.1,
+    "newSizeKB": 64.5,
+    "savedPercent": 93.7
+  },
+  {
+    "id": "assets-characters-expressions-xiaofulong-happy",
+    "oldPath": "/assets/characters/expressions/xiaofulong-happy.png",
+    "path": "./assets/images/assets-characters-expressions-xiaofulong-happy.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 1039.5,
+    "newSizeKB": 64.8,
+    "savedPercent": 93.8
+  },
+  {
+    "id": "assets-characters-outfits-blindbox-sweetcool",
+    "oldPath": "/assets/characters/outfits/blindbox-sweetcool.png",
+    "path": "./assets/images/assets-characters-outfits-blindbox-sweetcool.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 1280.6,
+    "newSizeKB": 101.3,
+    "savedPercent": 92.1
+  },
+  {
+    "id": "assets-characters-outfits-cocreation-artist",
+    "oldPath": "/assets/characters/outfits/cocreation-artist.png",
+    "path": "./assets/images/assets-characters-outfits-cocreation-artist.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 1315.7,
+    "newSizeKB": 94.5,
+    "savedPercent": 92.8
+  },
+  {
+    "id": "assets-characters-outfits-commute-utility",
+    "oldPath": "/assets/characters/outfits/commute-utility.png",
+    "path": "./assets/images/assets-characters-outfits-commute-utility.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 1315.5,
+    "newSizeKB": 118.5,
+    "savedPercent": 91
+  },
+  {
+    "id": "assets-characters-outfits-gift-soft",
+    "oldPath": "/assets/characters/outfits/gift-soft.png",
+    "path": "./assets/images/assets-characters-outfits-gift-soft.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 1222.7,
+    "newSizeKB": 93.8,
+    "savedPercent": 92.3
+  },
+  {
+    "id": "assets-characters-outfits-graduation-look",
+    "oldPath": "/assets/characters/outfits/graduation-look.png",
+    "path": "./assets/images/assets-characters-outfits-graduation-look.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 1020.1,
+    "newSizeKB": 64.5,
+    "savedPercent": 93.7
+  },
+  {
+    "id": "assets-characters-outfits-music-hoodie",
+    "oldPath": "/assets/characters/outfits/music-hoodie.png",
+    "path": "./assets/images/assets-characters-outfits-music-hoodie.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 1320.9,
+    "newSizeKB": 114.2,
+    "savedPercent": 91.4
+  },
+  {
+    "id": "assets-characters-outfits-school-ready",
+    "oldPath": "/assets/characters/outfits/school-ready.png",
+    "path": "./assets/images/assets-characters-outfits-school-ready.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 1245.4,
+    "newSizeKB": 95.1,
+    "savedPercent": 92.4
+  },
+  {
+    "id": "assets-characters-outfits-seaside-sweetcool",
+    "oldPath": "/assets/characters/outfits/seaside-sweetcool.png",
+    "path": "./assets/images/assets-characters-outfits-seaside-sweetcool.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 1280.6,
+    "newSizeKB": 101.3,
+    "savedPercent": 92.1
+  },
+  {
+    "id": "assets-clothes-bags-candy-crossbody-bag",
+    "oldPath": "/assets/clothes/bags/candy-crossbody-bag.png",
+    "path": "./assets/images/assets-clothes-bags-candy-crossbody-bag.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 913.6,
+    "newSizeKB": 43.8,
+    "savedPercent": 95.2
+  },
+  {
+    "id": "assets-clothes-bags-star-lock-satchel",
+    "oldPath": "/assets/clothes/bags/star-lock-satchel.png",
+    "path": "./assets/images/assets-clothes-bags-star-lock-satchel.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 1038.1,
+    "newSizeKB": 75.4,
+    "savedPercent": 92.7
+  },
+  {
+    "id": "assets-clothes-bottoms-blue-mini-shorts",
+    "oldPath": "/assets/clothes/bottoms/blue-mini-shorts.png",
+    "path": "./assets/images/assets-clothes-bottoms-blue-mini-shorts.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 786.8,
+    "newSizeKB": 32.2,
+    "savedPercent": 95.9
+  },
+  {
+    "id": "assets-clothes-bottoms-blue-soft-shorts",
+    "oldPath": "/assets/clothes/bottoms/blue-soft-shorts.png",
+    "path": "./assets/images/assets-clothes-bottoms-blue-soft-shorts.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 857.1,
+    "newSizeKB": 36.7,
+    "savedPercent": 95.7
+  },
+  {
+    "id": "assets-clothes-bottoms-blue-sport-skirt",
+    "oldPath": "/assets/clothes/bottoms/blue-sport-skirt.png",
+    "path": "./assets/images/assets-clothes-bottoms-blue-sport-skirt.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 961.9,
+    "newSizeKB": 59.5,
+    "savedPercent": 93.8
+  },
+  {
+    "id": "assets-clothes-bottoms-cream-cargo-pants",
+    "oldPath": "/assets/clothes/bottoms/cream-cargo-pants.png",
+    "path": "./assets/images/assets-clothes-bottoms-cream-cargo-pants.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 986.5,
+    "newSizeKB": 60.6,
+    "savedPercent": 93.9
+  },
+  {
+    "id": "assets-clothes-bottoms-lavender-pleated-skirt",
+    "oldPath": "/assets/clothes/bottoms/lavender-pleated-skirt.png",
+    "path": "./assets/images/assets-clothes-bottoms-lavender-pleated-skirt.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 884.4,
+    "newSizeKB": 35.5,
+    "savedPercent": 96
+  },
+  {
+    "id": "assets-clothes-glasses-star-party-glasses",
+    "oldPath": "/assets/clothes/glasses/star-party-glasses.png",
+    "path": "./assets/images/assets-clothes-glasses-star-party-glasses.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 885.9,
+    "newSizeKB": 43.6,
+    "savedPercent": 95.1
+  },
+  {
+    "id": "assets-clothes-hats-lavender-star-beanie",
+    "oldPath": "/assets/clothes/hats/lavender-star-beanie.png",
+    "path": "./assets/images/assets-clothes-hats-lavender-star-beanie.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 899.6,
+    "newSizeKB": 38.8,
+    "savedPercent": 95.7
+  },
+  {
+    "id": "assets-clothes-hats-pink-baseball-cap",
+    "oldPath": "/assets/clothes/hats/pink-baseball-cap.png",
+    "path": "./assets/images/assets-clothes-hats-pink-baseball-cap.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 887.3,
+    "newSizeKB": 32.8,
+    "savedPercent": 96.3
+  },
+  {
+    "id": "assets-clothes-outerwear-beige-light-jacket",
+    "oldPath": "/assets/clothes/outerwear/beige-light-jacket.png",
+    "path": "./assets/images/assets-clothes-outerwear-beige-light-jacket.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 877.4,
+    "newSizeKB": 43.3,
+    "savedPercent": 95.1
+  },
+  {
+    "id": "assets-clothes-outerwear-beige-trench-coat",
+    "oldPath": "/assets/clothes/outerwear/beige-trench-coat.png",
+    "path": "./assets/images/assets-clothes-outerwear-beige-trench-coat.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 1015.3,
+    "newSizeKB": 52.5,
+    "savedPercent": 94.8
+  },
+  {
+    "id": "assets-clothes-outerwear-pastel-bomber-jacket",
+    "oldPath": "/assets/clothes/outerwear/pastel-bomber-jacket.png",
+    "path": "./assets/images/assets-clothes-outerwear-pastel-bomber-jacket.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 1140.6,
+    "newSizeKB": 78.5,
+    "savedPercent": 93.1
+  },
+  {
+    "id": "assets-clothes-outerwear-pink-varsity-jacket",
+    "oldPath": "/assets/clothes/outerwear/pink-varsity-jacket.png",
+    "path": "./assets/images/assets-clothes-outerwear-pink-varsity-jacket.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 1030.6,
+    "newSizeKB": 62.9,
+    "savedPercent": 93.9
+  },
+  {
+    "id": "assets-clothes-outerwear-utility-pocket-vest",
+    "oldPath": "/assets/clothes/outerwear/utility-pocket-vest.png",
+    "path": "./assets/images/assets-clothes-outerwear-utility-pocket-vest.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 1089.9,
+    "newSizeKB": 75,
+    "savedPercent": 93.1
+  },
+  {
+    "id": "assets-clothes-props-pastel-headphones",
+    "oldPath": "/assets/clothes/props/pastel-headphones.png",
+    "path": "./assets/images/assets-clothes-props-pastel-headphones.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 906.6,
+    "newSizeKB": 40.1,
+    "savedPercent": 95.6
+  },
+  {
+    "id": "assets-clothes-shoes-blue-canvas-shoes",
+    "oldPath": "/assets/clothes/shoes/blue-canvas-shoes.png",
+    "path": "./assets/images/assets-clothes-shoes-blue-canvas-shoes.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 813.9,
+    "newSizeKB": 38.1,
+    "savedPercent": 95.3
+  },
+  {
+    "id": "assets-clothes-shoes-pastel-chunky-sneakers",
+    "oldPath": "/assets/clothes/shoes/pastel-chunky-sneakers.png",
+    "path": "./assets/images/assets-clothes-shoes-pastel-chunky-sneakers.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 1109.6,
+    "newSizeKB": 92.5,
+    "savedPercent": 91.7
+  },
+  {
+    "id": "assets-clothes-shoes-round-blue-sneakers",
+    "oldPath": "/assets/clothes/shoes/round-blue-sneakers.png",
+    "path": "./assets/images/assets-clothes-shoes-round-blue-sneakers.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 856.4,
+    "newSizeKB": 34.2,
+    "savedPercent": 96
+  },
+  {
+    "id": "assets-clothes-tops-mint-basic-tee",
+    "oldPath": "/assets/clothes/tops/mint-basic-tee.png",
+    "path": "./assets/images/assets-clothes-tops-mint-basic-tee.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 879.6,
+    "newSizeKB": 35.4,
+    "savedPercent": 96
+  },
+  {
+    "id": "assets-clothes-tops-rainbow-cropped-knit",
+    "oldPath": "/assets/clothes/tops/rainbow-cropped-knit.png",
+    "path": "./assets/images/assets-clothes-tops-rainbow-cropped-knit.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 935.3,
+    "newSizeKB": 48.1,
+    "savedPercent": 94.9
+  },
+  {
+    "id": "assets-clothes-tops-rainbow-sweatshirt",
+    "oldPath": "/assets/clothes/tops/rainbow-sweatshirt.png",
+    "path": "./assets/images/assets-clothes-tops-rainbow-sweatshirt.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 923.6,
+    "newSizeKB": 41.4,
+    "savedPercent": 95.5
+  },
+  {
+    "id": "assets-clothes-tops-star-gradient-hoodie",
+    "oldPath": "/assets/clothes/tops/star-gradient-hoodie.png",
+    "path": "./assets/images/assets-clothes-tops-star-gradient-hoodie.webp",
+    "kind": "transparent-asset",
+    "originalSizeKB": 1150.2,
+    "newSizeKB": 84.3,
+    "savedPercent": 92.7
+  },
+  {
+    "id": "assets-posters-blindbox-poster",
+    "oldPath": "/assets/posters/blindbox-poster.png",
+    "path": "./assets/images/assets-posters-blindbox-poster.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 2230.4,
+    "newSizeKB": 178.2,
+    "savedPercent": 92
+  },
+  {
+    "id": "assets-posters-cocreation-poster",
+    "oldPath": "/assets/posters/cocreation-poster.png",
+    "path": "./assets/images/assets-posters-cocreation-poster.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 2335,
+    "newSizeKB": 217.5,
+    "savedPercent": 90.7
+  },
+  {
+    "id": "assets-posters-commute-poster",
+    "oldPath": "/assets/posters/commute-poster.png",
+    "path": "./assets/images/assets-posters-commute-poster.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 2262.3,
+    "newSizeKB": 196.2,
+    "savedPercent": 91.3
+  },
+  {
+    "id": "assets-posters-gift-poster",
+    "oldPath": "/assets/posters/gift-poster.png",
+    "path": "./assets/images/assets-posters-gift-poster.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 2234.4,
+    "newSizeKB": 168,
+    "savedPercent": 92.5
+  },
+  {
+    "id": "assets-posters-graduation-poster",
+    "oldPath": "/assets/posters/graduation-poster.png",
+    "path": "./assets/images/assets-posters-graduation-poster.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 2210.3,
+    "newSizeKB": 172,
+    "savedPercent": 92.2
+  },
+  {
+    "id": "assets-posters-music-poster",
+    "oldPath": "/assets/posters/music-poster.png",
+    "path": "./assets/images/assets-posters-music-poster.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 2339.1,
+    "newSizeKB": 192.9,
+    "savedPercent": 91.8
+  },
+  {
+    "id": "assets-posters-school-poster",
+    "oldPath": "/assets/posters/school-poster.png",
+    "path": "./assets/images/assets-posters-school-poster.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 2239.5,
+    "newSizeKB": 191.1,
+    "savedPercent": 91.5
+  },
+  {
+    "id": "assets-posters-seaside-poster",
+    "oldPath": "/assets/posters/seaside-poster.png",
+    "path": "./assets/images/assets-posters-seaside-poster.webp",
+    "kind": "large-visual",
+    "originalSizeKB": 2119.9,
+    "newSizeKB": 180.4,
+    "savedPercent": 91.5
+  }
+]
